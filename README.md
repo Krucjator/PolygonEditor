@@ -5,6 +5,7 @@ Application for displaying and editing polygons. Edition includes:
  - adding and deleting vertices
  - restricting edges behaviour (e.g. making edge always horizontal)
  - locking and adjusting angles between edges
+
 Additionally convex hull button trims the polygon, leaving only the vertices and edges which enclose the initial polygon.
 
 ![alt text](https://raw.githubusercontent.com/Krucjator/PolygonEditor/master/Polygon1.png)
