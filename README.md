@@ -6,11 +6,11 @@ Application for displaying and editing polygons. Edition includes:
  - restricting edges behaviour (e.g. making edge always horizontal)
  - locking and adjusting angles between edges
 
-![alt text](https://raw.githubusercontent.com/Krucjator/PolygonEditor/master/Polygon1.png)
+![alt text](https://raw.githubusercontent.com/Krucjator/PolygonEditor/master/Polygon_1.png)
 
 Additionally convex hull button trims the polygon, leaving only the vertices and edges which enclose the initial polygon.
 
-![alt text](https://raw.githubusercontent.com/Krucjator/PolygonEditor/master/Polygon2.png)
+![alt text](https://raw.githubusercontent.com/Krucjator/PolygonEditor/master/Polygon_2.png)
 
 # How to use
 
